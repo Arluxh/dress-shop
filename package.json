@@ -16,9 +16,9 @@
   "author": "",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/jrussumbrella/dress-shop/issues"
+    "url": "https://github.com/Arluxh/dress-shop/issues"
   },
-  "homepage": "https://github.com/jrussumbrella/dress-shop#readme",
+  "homepage": "https://github.com/Arluxh/dress-shop#readme",
   "devDependencies": {
     "concurrently": "^5.2.0"
   },
